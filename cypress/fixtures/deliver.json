@@ -1,0 +1,18 @@
+{
+    "signup": {
+        "name": "Gabriel Martins",
+        "cpf": "00012345678",
+        "email": "gabrielmartins.qa@yopmail.com",
+        "whatsapp": "85912345678",
+        "address": {
+            "postalcode": "60510510",
+            "street": "Rua Serra Dourada",
+            "number": "285",
+            "details": "A",
+            "district": "Pici",
+            "city_state": "Fortaleza/CE"
+        },
+        "deliver_method": "Moto",
+        "cnh": "Kenlo.png"
+    }
+}
