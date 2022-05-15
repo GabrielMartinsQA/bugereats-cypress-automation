@@ -1,0 +1,12 @@
+.DS_Store
+cypress/screenshots/
+cypress/videos/
+node_modules/
+temp/
+node_modules
+cypress.env.json
+mocha-files/
+mocha-merge/reports.json
+/.idea/
+cypress/integration/examples
+cypress/integration/videos
